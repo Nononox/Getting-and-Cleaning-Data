@@ -10,7 +10,7 @@ LAYING.
 
 ### 2nd column contains subject number, from 1 - 30
 
-### 3rd to the last column are all feature variables
+### 3rd to the last column are MEAN of all feature variables
 
 Feature Selection:
 
@@ -46,4 +46,6 @@ fBodyGyroJerkMag.
 mean(): Mean value;
 std(): Standard deviation.
 
+#### Method to get the mean:
 
+aggregate()
